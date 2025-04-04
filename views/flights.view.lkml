@@ -35,7 +35,7 @@ view: flights {
   }
   dimension: destination {
     type: string
-    sql: ${TABLE}.destination ;;
+    sql: ${TABLE}.destinaaation ;;
   }
   dimension: distance {
     type: number
