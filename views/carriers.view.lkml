@@ -13,7 +13,7 @@ view: carriers {
   }
   dimension: nickname {
     type: string
-    sql: ${TABLE}.nickname ;;
+    sql: ${TABLE}.nicknaame ;;
   }
   measure: count {
     type: count

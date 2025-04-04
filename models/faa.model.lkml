@@ -15,4 +15,3 @@ explore: airports {}
 explore: carriers {}
 
 explore: flights {}
-
