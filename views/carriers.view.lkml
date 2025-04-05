@@ -14,6 +14,7 @@ view: carriers {
   }
 
   dimension: nickname {
+    description: "a nickname for the field"
     type: string
     sql: ${TABLE}.nickname ;;
   }
