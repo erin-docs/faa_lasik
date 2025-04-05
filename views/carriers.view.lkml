@@ -2,6 +2,7 @@ view: carriers {
   sql_table_name: `faa.carriers`
     ;;
 
+
   dimension: code {
     type: string
     sql: ${TABLE}.code ;;
